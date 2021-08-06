@@ -8,5 +8,7 @@ public class Hello {
 
         System.out.println("Hello to everyone!");
 
+        // some cool codes here
+
     }
 }
